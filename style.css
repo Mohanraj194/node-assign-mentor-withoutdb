@@ -1,0 +1,20 @@
+.bg-dark {
+  background: #4fd894 !important;
+}
+.navbar-dark .navbar-brand {
+  color: white !important;
+  font-weight: bold !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: white !important;
+  border-right: 1px solid white;
+  padding: 0px 10px 0px 10px;
+}
+#mentor_list {
+  width: 230px;
+  height: 50px;
+  margin-bottom: 15px;
+}
+#mentor_section {
+  text-align: center;
+}
