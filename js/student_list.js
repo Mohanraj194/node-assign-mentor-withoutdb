@@ -1,4 +1,4 @@
-let url = "http://localhost:3000";
+let url = "https://devmohan-assign-mentor-wodb.herokuapp.com";
    function getMentors() {
     fetch(`${url}/all-students-mentors/all`, {
         method: "GET",
